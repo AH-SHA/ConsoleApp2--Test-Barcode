@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleApp2--Test Barcode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+355a00627309925df2e9e9728b32093ab583b040")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85338eb87ecdf2747d5a0af433b37a71cac79412")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleApp2--Test Barcode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleApp2--Test Barcode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

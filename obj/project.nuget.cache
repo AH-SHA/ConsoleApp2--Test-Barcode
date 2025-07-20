@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6WaLzyUdJmo=",
+  "dgSpecHash": "HsgTCMOP8h4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\compm\\repos\\ConsoleApp2--Test Barcode\\ConsoleApp2--Test Barcode.csproj",
+  "projectFilePath": "C:\\Users\\compm\\repos\\ConsoleApp2--Test-Barcode\\ConsoleApp2--Test Barcode.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\compm\\.nuget\\packages\\barcode\\2025.6.7\\barcode.2025.6.7.nupkg.sha512",
     "C:\\Users\\compm\\.nuget\\packages\\barcode.detection\\2025.6.7\\barcode.detection.2025.6.7.nupkg.sha512",

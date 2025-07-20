@@ -1641,7 +1641,8 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "BarCode >= 2025.6.7"
+      "BarCode >= 2025.6.7",
+      "BarCode.Detection >= 2025.6.7"
     ]
   },
   "packageFolders": {
@@ -1651,11 +1652,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\compm\\repos\\ConsoleApp2--Test Barcode\\ConsoleApp2--Test Barcode.csproj",
+      "projectUniqueName": "C:\\Users\\compm\\repos\\ConsoleApp2--Test-Barcode\\ConsoleApp2--Test Barcode.csproj",
       "projectName": "ConsoleApp2--Test Barcode",
-      "projectPath": "C:\\Users\\compm\\repos\\ConsoleApp2--Test Barcode\\ConsoleApp2--Test Barcode.csproj",
+      "projectPath": "C:\\Users\\compm\\repos\\ConsoleApp2--Test-Barcode\\ConsoleApp2--Test Barcode.csproj",
       "packagesPath": "C:\\Users\\compm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\compm\\repos\\ConsoleApp2--Test Barcode\\obj\\",
+      "outputPath": "C:\\Users\\compm\\Repos\\ConsoleApp2--Test-Barcode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1695,6 +1696,10 @@
         "targetAlias": "net8.0",
         "dependencies": {
           "BarCode": {
+            "target": "Package",
+            "version": "[2025.6.7, )"
+          },
+          "BarCode.Detection": {
             "target": "Package",
             "version": "[2025.6.7, )"
           }

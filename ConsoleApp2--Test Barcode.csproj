@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="BarCode" Version="2025.6.7" />
+    <PackageReference Include="BarCode.Detection" Version="2025.6.7" />
   </ItemGroup>
 
 </Project>
